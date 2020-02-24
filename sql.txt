@@ -1,0 +1,9 @@
+INSERT INTO CUSTOMERS VALUES (1, 'Atiqur Rahman', 'atiqurrahman7465@gmail.com'); 
+INSERT INTO CUSTOMERS VALUES (2, 'Mahian Mahim', 'mahian@gmail.com'); 
+INSERT INTO CUSTOMERS VALUES (3, 'Mehedi Hasan Babu', 'babui@gmail.com'); 
+INSERT INTO CUSTOMERS VALUES (4, 'Tanvir Hossain', 'tanvir@gmail.com'); 
+INSERT INTO CUSTOMERS VALUES (5, 'Rohejul Islam', 'rohejul@gmail.com'); 
+INSERT INTO CUSTOMERS VALUES (6, 'Sayem Ahmed', 'sayem@gmail.com'); 
+INSERT INTO CUSTOMERS VALUES (7, 'Bodi Shamim', 'bodi@gmail.com'); 
+INSERT INTO CUSTOMERS VALUES (8, 'Taif Ahmed', 'taif@gmail.com'); 
+INSERT INTO CUSTOMERS VALUES (9, 'Shakhawat Hossain', 'shakhawat@gmail.com'); 
